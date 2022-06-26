@@ -1,9 +1,13 @@
 .row {
   display: flex;
   justify-content: center;
-  padding-top: 98px;
+  padding-top: 40px;
 }
 
 .col{
   margin: 0 !important
+}
+
+.card .card-reveal{
+  background-color: #f7f7f7;
 }
